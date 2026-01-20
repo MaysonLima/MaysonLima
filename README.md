@@ -1,6 +1,5 @@
 <h1 align="left">Hello, World!👋</h1>
 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg"> pacman contribution graph </picture>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=440&height=45&lines=Software+Developer+Fullstack;Machine+Learning+%7C+CyberSecurity" alt="Typing SVG" />
