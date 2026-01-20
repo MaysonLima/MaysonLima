@@ -1,6 +1,3 @@
-![GitHub Followers](https://img.shields.io/github/followers/simoncampos1022?label=Followers&style=social)  
-![GitHub Stars](https://img.shields.io/github/stars/simoncampos1022?label=Stars&style=social)
-
 <h1 align="left">Hello, World!👋</h1>
 
 ###
