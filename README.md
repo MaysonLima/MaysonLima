@@ -1,7 +1,5 @@
 <h1 align="left">Hello, World!👋</h1>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31rnkggms5ecriconsnrwmotz4fm)
-
 ###
 
 <p align="left">My name is Mayson Lima and I'm a Software Developer from Brazil</p>
