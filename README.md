@@ -66,34 +66,6 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Mayson Lima dos Santos">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Mayson%20Lima%20dos%20Santos&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@MaysonLima /0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@MaysonLima /0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@MaysonLima /1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@MaysonLima /1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@MaysonLima /2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@MaysonLima /2" alt="Medium post 3"  />
-  </a>
-</div>
-
-###
-
-</div>
-
-###
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maysonlima&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
