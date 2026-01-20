@@ -62,15 +62,23 @@
 
 ###
 
+<div align="center">
+  <a href="https://open.spotify.com/user/Mayson Lima dos Santos">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Mayson%20Lima%20dos%20Santos&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
 <div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Mayson Lima/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Mayson Lima/0" alt="Medium post 1"  />
   </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Mayson Lima/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Mayson Lima/1" alt="Medium post 2"  />
   </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Mayson Lima/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Mayson Lima/2" alt="Medium post 3"  />
   </a>
 </div>
 
