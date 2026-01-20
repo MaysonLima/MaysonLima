@@ -1,5 +1,12 @@
 <h1 align="left">Hello, World!👋</h1>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=440&height=45&lines=Aspiring+Software+Developer+%7C+Fullstack;Creative+Thinker+%7C" alt="Typing SVG" />
+  </a>
+  
+</p>
+
 ###
 
 <p align="left">My name is Mayson Lima and I'm a Software Developer from Brazil</p>
