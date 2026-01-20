@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">My name is Mayson Lima and I'm a Software Developer from Brazil</p>
+<p align="left">My name is Mayson Lima and I'm a Software Developer from Brazil!</p>
 
 ###
 
@@ -71,7 +71,8 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=maysonlima&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" <a href="maysonlima021@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt=""  /> />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
