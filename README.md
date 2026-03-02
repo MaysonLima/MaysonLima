@@ -9,13 +9,7 @@
 
 ###
 
-<p align="left">My name is Mayson Lima and I'm a Software Developer from Brazil!</p>
-
-###
-
-<p align="left">-Creating bugs since 2023-</p>
-
-###
+<p align="left">My name is Mayson Lima and I'm a Software Engineer from Brazil</p>
 
 <h2 align="left">Languages & Tools</h2>
 
