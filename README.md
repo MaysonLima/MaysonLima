@@ -46,4 +46,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mayson_lima&theme=dark)](https://git.io/streak-stats)
+<div align="center">[![GitHub Streak](https://streak-stats.demolab.com/?user=mayson_lima&theme=dark)](https://git.io/streak-stats)</div>
