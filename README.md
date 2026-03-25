@@ -12,6 +12,9 @@
 
 <p align="left">My name is Mayson Lima and I'm a Software Engineer from Brazil</p>
 
+<a href="https://git.io/streak-stats" align="center"><img src="https://streak-stats.demolab.com?user=mayson_lima&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
+
+
 <h2 align="left">Languages & Tools</h2>
 
 ###
