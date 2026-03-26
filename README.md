@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mayson 👋</h1>
+<h1 align="center">Hello, I'm Mayson 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=420&lines=Fullstack+Developer;JavaScript+%7C+Node+%7C+React" />
@@ -19,24 +19,12 @@
 </div>
 
 ---
-
-<h3 align="center"> About</h3>
-
-<p align="center">
-   Focused on becoming a high-level Fullstack Developer <br>
-   Currently deepening knowledge in: Backend & Architecture <br>
-</p>
-
----
-<br>
-<br>
 <br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mayson_lima&theme=transparent&hide_border=false" />
 </div>
 
 ---
-<br>
 <br>
 
 <h3 align="center"> Connect ;] </h3>
