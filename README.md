@@ -17,7 +17,9 @@
 <h3 align="center">Languages & Tools</h3>
 
 ###
+<br>
 
+<hr style="width: 60%; border: 1px solid #F75C7E;">
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -50,7 +52,6 @@
 <hr style="width: 60%; border: 1px solid #F75C7E;">
 <br>
 <br>
-<br>
-<br>
+
 
 <div align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mayson_lima&theme=transparent&hide_border=false" alt="GitHub Streak" /></a></div>
