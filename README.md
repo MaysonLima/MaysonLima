@@ -47,7 +47,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
 </div>
-<br>
+<hr style="width: 60%; border: 1px solid #F75C7E;">
 <br>
 <br>
 <br>
