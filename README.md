@@ -13,7 +13,6 @@
 <p align="center">My name is Mayson Lima and i'm a Software Engineer from Brazil.</p>
 
 <br>
-<br>
 
 <h3 align="center">Languages & Tools</h3>
 
@@ -47,9 +46,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <br>
+  <br>
 </div>
-
-<br>
-<br>
 
 <div align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mayson_lima&theme=transparent&hide_border=false" alt="GitHub Streak" /></a></div>
