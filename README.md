@@ -14,7 +14,6 @@
 
 <br>
 <br>
-<br>
 
 <h3 align="center">Languages & Tools</h3>
 
