@@ -6,6 +6,7 @@
 
 <p align="center">
   Software Developer from Brazil <br>
+  <br>
   Focused on building scalable web applications
 </p>
 
@@ -31,7 +32,7 @@
 <h3 align="center">🔥 Streak</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mayson-lima&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=mayson_lima&theme=transparent&hide_border=true" />
 </div>
 
 ---
@@ -40,11 +41,11 @@
 
 <div align="center">
 
-<a href="[https://www.linkedin.com/in/SEU-LINK-AQUI"](https://www.linkedin.com/in/maysonlima/)>
+<a href="https://www.linkedin.com/in/maysonlima/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="[https://SEU-PORTFOLIO.com](https://maysonlima.github.io/Portifolio-Mayson-Lima-dos-Santos/)">
+<a href="https://maysonlima.github.io/Portifolio-Mayson-Lima-dos-Santos/">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=firefox&logoColor=white"/>
 </a>
 
