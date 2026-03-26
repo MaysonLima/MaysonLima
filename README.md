@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">My name is Mayson Lima and I'm a Software Engineer from Brazil</p>
+<p align="center">My name is Mayson Lima and i'm a Software Engineer from Brazil.</p>
 
 <br>
 <br>
@@ -48,6 +48,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
 </div>
+
 <br>
 <br>
+
 <div align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mayson_lima&theme=transparent&hide_border=true" alt="GitHub Streak" /></a></div>
