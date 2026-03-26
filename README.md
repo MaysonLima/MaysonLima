@@ -23,19 +23,21 @@
 <h3 align="center"> About</h3>
 
 <p align="center">
-  🎯 Focused on becoming a high-level Fullstack Developer <br>
-  📚 Currently deepening knowledge in: Backend & Architecture <br>
+   Focused on becoming a high-level Fullstack Developer <br>
+   Currently deepening knowledge in: Backend & Architecture <br>
 </p>
 
 ---
-
-<h3 align="center">🔥 Streak</h3>
-
+<br>
+<br>
+<br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mayson_lima&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=mayson_lima&theme=transparent&hide_border=false" />
 </div>
 
 ---
+<br>
+<br>
 
 <h3 align="center"> Connect ;] </h3>
 
