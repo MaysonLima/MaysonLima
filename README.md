@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">My name is Mayson Lima and I'm a Software Engineer from Brazil</p>
+<p align="center">My name is Mayson Lima and I'm a Software Engineer from Brazil</p>
 
 <h2 align="left">Languages & Tools</h2>
 
