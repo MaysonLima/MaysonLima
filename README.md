@@ -12,6 +12,10 @@
 
 <p align="center">My name is Mayson Lima and I'm a Software Engineer from Brazil</p>
 
+<br>
+<br>
+<br>
+
 <h3 align="center">Languages & Tools</h3>
 
 ###
