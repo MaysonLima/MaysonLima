@@ -1,5 +1,5 @@
 <h1 align="left">Hello, World!👋</h1>
-<h3 align="left">Creating bugs since 2024!</h3>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
