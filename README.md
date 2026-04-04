@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://maysonlima.github.io/Portifolio-Mayson-Lima-dos-Santos/">
+<a href="https://maysonlima.github.io/Portfolio-Mayson-Lima-dos-Santos/">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=firefox&logoColor=white"/>
 </a>
 
