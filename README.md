@@ -15,7 +15,7 @@
 <h3 align="center"> Tech Stack</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,java,spring,postgres,aws,git,github,html,css,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,java,spring,phyton,postgres,aws,git,github,html,css,vscode,idea" />
 </div>
 
 ---
