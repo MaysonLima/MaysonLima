@@ -21,7 +21,7 @@
 ---
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mayson_lima&theme=transparent&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=mayson_lima&theme=transparent&hide_border=true" />
 </div>
 
 ---
@@ -36,7 +36,7 @@
 </a>
 
 <a href="https://maysonlima.github.io/Portfolio-Mayson-Lima-dos-Santos/">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=firefox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=chrome&logoColor=white"/>
 </a>
 
 </div>
