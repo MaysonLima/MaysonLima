@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Mayson 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=420&lines=Fullstack+Developer;AI+%7C+ML" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=420&lines=Fullstack+Developer;Web+%7CL+AI+%7C+ML" />
 </p>
 
 <p align="center">
