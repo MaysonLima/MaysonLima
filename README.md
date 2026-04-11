@@ -17,14 +17,8 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,java,spring,python,postgres,aws,git,github,html,css,vscode,idea" />
 </div>
-
 ---
-<br>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mayson_lima&theme=transparent&hide_border=true" />
-</div>
 
----
 <br>
 
 <h3 align="center"> Connect ;] </h3>
