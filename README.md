@@ -8,7 +8,7 @@
   <a href="mailto:maysonlima021@gmail.com"><img src="https://img.shields.io/badge/Contato-252238?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Enviar e-mail" /></a>
 </p>
 
-Estudante de **ADS na PUC Minas** e do **Acelera Dev no Programadores do Amanhã**. Desenvolvo aplicações web e busco **estágio em Desenvolvimento de Software**.
+Graduando em **ADS na PUC Minas** e do **Acelera Dev no Programadores do Amanhã**. Desenvolvo aplicações web e busco **estágio em Desenvolvimento de Software**.
 
 ### Tecnologias
 
