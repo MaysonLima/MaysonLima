@@ -8,7 +8,14 @@
   <a href="mailto:maysonlima021@gmail.com"><img src="https://img.shields.io/badge/Contato-252238?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Enviar e-mail" /></a>
 </p>
 
-Graduando em **ADS na PUC Minas** e mo **Acelera Dev no Programadores do Amanhã**. Desenvolvo aplicações web e busco **estágio em Desenvolvimento de Software**.
+Graduando de Análise e Desenvolvimento de Sistemas pela Pontifícia Universidade Católica de Minas Gerais (PUC Minas), estou construindo minha carreira na área de tecnologia, com foco no desenvolvimento de software e na criação de soluções eficientes. 
+
+Tenho interesse em desenvolvimento back-end, integração de APIs REST, arquitetura de software e metodologias ágeis, buscando constantemente aprimorar meus conhecimentos e aplicar boas práticas de programação para desenvolver soluções escaláveis e de qualidade. 
+
+Minha experiência como Agente Credenciado da Neoenergia Coelba fortaleceu competências como comunicação, organização, resolução de problemas, atenção aos detalhes e análise de processos. Atuei no atendimento ao cliente, análise e validação de documentos, suporte a processos regulados, intermediação entre clientes e concessionária e acompanhamento de procedimentos operacionais, sempre prezando pela conformidade, qualidade e eficiência na execução das atividades.
+
+ Atualmente, busco uma oportunidades onde possa aplicar os conhecimentos adquiridos na graduação e em projetos práticos utilizando JavaScript, Node.js, HTML, CSS, Git, GitHub e bancos de dados, contribuindo para o desenvolvimento de soluções tecnológicas enquanto continuo evoluindo profissionalmente. 
+
 
 ### Tecnologias
 
